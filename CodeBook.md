@@ -42,24 +42,30 @@ tBodyAccMeanX
 tBodyAccMeanY
 tBodyAccMeanZ
 tGravityAccMeanX
-tGravityAccMeanY	tGravityAccMeanZ	
+tGravityAccMeanY	
+tGravityAccMeanZ	
 tBodyAccJerkMeanX	
 tBodyAccJerkMeanY	
-tBodyAccJerkMeanZ	tBodyGyroMeanX	
+tBodyAccJerkMeanZ	
+tBodyGyroMeanX	
 tBodyGyroMeanY	
 tBodyGyroMeanZ
-tBodyGyroJerkMeanX	tBodyGyroJerkMeanY	
+tBodyGyroJerkMeanX	
+tBodyGyroJerkMeanY	
 tBodyGyroJerkMeanZ	
 tBodyAccMagMean	
-tGravityAccMagMean	tBodyAccJerkMagMean	
+tGravityAccMagMean	
+tBodyAccJerkMagMean	
 tBodyGyroMagMean	
 tBodyGyroJerkMagMean
 fBodyAccMeanX	
-fBodyAccMeanY	fBodyAccMeanZ	
+fBodyAccMeanY	
+fBodyAccMeanZ	
 fBodyAccJerkMeanX
 fBodyAccJerkMeanY
 fBodyAccJerkMeanZ	
-fBodyGyroMeanX	fBodyGyroMeanY	
+fBodyGyroMeanX	
+fBodyGyroMeanY	
 fBodyGyroMeanZ	
 fBodyAccMagMean	
 fBodyBodyAccJerkMagMean	fBodyBodyGyroMagMean	
@@ -71,10 +77,12 @@ tBodyAccSTDX
 tBodyAccSTDY	
 tBodyAccSTDZ	
 tGravityAccSTDX	
-tGravityAccSTDY	tGravityAccSTDZ
+tGravityAccSTDY	
+tGravityAccSTDZ
 tBodyAccJerkSTDX
 tBodyAccJerkSTDY	
-tBodyAccJerkSTDZ	tBodyGyroSTDX
+tBodyAccJerkSTDZ	
+tBodyGyroSTDX
 tBodyGyroSTDY
 tBodyGyroSTDZ
 tBodyGyroJerkSTDX
@@ -82,15 +90,19 @@ tBodyGyroJerkSTDY
 tBodyGyroJerkSTDZ
 tBodyAccMagSTD
 tGravityAccMagSTD
-tBodyAccJerkMagSTD	tBodyGyroMagSTD	
+tBodyAccJerkMagSTD	
+tBodyGyroMagSTD	
 tBodyGyroJerkMagSTD	
 fBodyAccSTDX	
 fBodyAccSTDY	
-fBodyAccSTDZ	fBodyAccJerkSTDX
+fBodyAccSTDZ	
+fBodyAccJerkSTDX
 fBodyAccJerkSTDY	
 fBodyAccJerkSTDZ	
 fBodyGyroSTDX	
-fBodyGyroSTDY	fBodyGyroSTDZ	
+fBodyGyroSTDY	
+fBodyGyroSTDZ	
 fBodyAccMagSTD
 fBodyBodyAccJerkMagSTD
-fBodyBodyGyroMagSTD	fBodyBodyGyroJerkMagSTD
+fBodyBodyGyroMagSTD	
+fBodyBodyGyroJerkMagSTD
